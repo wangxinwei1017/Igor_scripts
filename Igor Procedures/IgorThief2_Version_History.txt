@@ -1,0 +1,13 @@
+IgorThief2 version history
+
+v1.0.0 2023-10-02
+	First public release
+
+v1.1.0 2023-10-10
+	Added a case to the mouse hook that handles changing the name (but not the title) of the graph.  The data folder and any graphs associated with that IgorThief2 graph will have their names updated.
+
+v1.1.1 2023-10-10
+	Updated the help text
+	
+v1.2.0	2024-03-04
+	Added support for more axis types in addition to log10 and linear.  Can now do ln, sqrt, and reciprocal.  
